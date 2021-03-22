@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_section_cards_sections",
+  "info": {
+    "name": "Cards Section",
+    "icon": "address-card",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "subtitle": {
+      "type": "string"
+    },
+    "cards": {
+      "type": "component",
+      "repeatable": true,
+      "component": "core.card"
+    }
+  }
+}

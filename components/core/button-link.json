@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_core_button_links",
+  "info": {
+    "name": "Button Link",
+    "icon": "external-link-square-alt",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "label": {
+      "type": "string"
+    },
+    "href": {
+      "type": "string"
+    }
+  }
+}

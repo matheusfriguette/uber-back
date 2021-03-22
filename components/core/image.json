@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_core_images",
+  "info": {
+    "name": "Image",
+    "icon": "image",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "src": {
+      "type": "string"
+    },
+    "alt": {
+      "type": "string"
+    }
+  }
+}
